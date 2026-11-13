@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+.boton {
+    display: inline-block;
+    background: #25d366;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+title {
+    color: #38bdf8;
+    font-size: 24px;
+    margin-bottom: 20px;
+}

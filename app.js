@@ -13,5 +13,7 @@ if (nombre.trim() === "" || servicio.trim() === "") {
   const url = "https://wa.me/51940868182?text=" + encodeURIComponent(mensaje);
 
   window.open(url, "_blank");
-  
+
 });
+
+document.getElementById("anio").textContent = new Date().getFullYear();

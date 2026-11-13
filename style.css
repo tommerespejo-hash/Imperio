@@ -58,3 +58,11 @@ h1 {
   border-radius: 8px;
   font-size: 16px;
 }
+
+.pie {
+  margin-top: 60px;
+  padding: 20px 0;
+  border-top: 1px solid #1e293b;
+  font-size: 14px;
+  color: #94a3b8;
+}

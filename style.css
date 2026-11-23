@@ -98,3 +98,18 @@ h1 {
   font-weight: bold;
   flex-shrink: 0;
 }
+.proyectos {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.proyectos a {
+  color: #38bdf8;
+}
+
+.estado {
+  color: #f8f538;
+  font-size: 14px;
+}

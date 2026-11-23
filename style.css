@@ -66,3 +66,24 @@ h1 {
   font-size: 14px;
   color: #94a3b8;
 }
+.sobre-mi {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 40px;
+  text-align: left;
+}
+
+.foto {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+@media (max-width: 600px) {
+  .sobre-mi {
+    flex-direction: column;
+    text-align: center;
+  }
+}

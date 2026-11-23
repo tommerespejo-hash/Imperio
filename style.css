@@ -87,3 +87,13 @@ h1 {
     text-align: center;
   }
 }
+.iniciales {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f538;
+  color: #0f172a;
+  font-size: 40px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
